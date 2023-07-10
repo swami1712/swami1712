@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   Hi there 👋, I'm Swami
 </h1>
 
-  📫 How to reach me: [Swami Mahale (linkedIn)](https://in.linkedin.com/in/swami-mahale-647331202)
+  📫 How to reach me: [Swami Mahale (linkedIn)](https://in.linkedin.com/in/swami-mahale-647331202)<br>
   
   [![](https://visitcount.itsvg.in/api?id=swami1712&icon=2&color=0)](https://visitcount.itsvg.in)
 <hr>
