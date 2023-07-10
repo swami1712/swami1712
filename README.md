@@ -36,10 +36,13 @@ Here are some ideas to get you started:
 <h2>GITHUB STATS</h2>
 
   
-![](https://github-readme-stats.vercel.app/api?username=swami1712&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=swami1712&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=swami1712&theme=merko&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swami1712&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
+![](https://github-readme-stats.vercel.app/api?username=swami1712&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=swami1712&theme=merko&hide_border=false)<br/
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swami1712&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)>-->
 </div>
 
 <!--
